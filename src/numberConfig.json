@@ -1,0 +1,17 @@
+{
+    "numbers": [
+        {
+            "prefixRegex":"(\\+49)[0-9]*",
+            "callerId": "+491123456789"
+        },
+        {
+            "prefixRegex":"(\\+1)[0-9]*",
+            "callerId": "+16028012321"
+        },
+        {
+            "prefixRegex":"(.*)",
+            "callerId": "+184123123123"
+        }
+
+    ]
+}
