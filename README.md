@@ -1,6 +1,6 @@
 # Dial number overwrite for Flex
 
-TThis wilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). When you dial a number with the new [Twilio Flex Dialpad](https://www.twilio.com/docs/flex/dialpad), this plugin will check the dialed number against the regular expressions defined in `src/numberConfig.json` and replace the caller id with the corresponding one. Note: the Flex account must be associated with the phone number you are picking.
+This wilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). When you dial a number with the new [Twilio Flex Dialpad](https://www.twilio.com/docs/flex/dialpad), this plugin will check the dialed number against the regular expressions defined in `src/numberConfig.json` and replace the caller id with the corresponding one. Note: the Flex account must be associated with the phone number you are picking.
 
 ## Setup
 
